@@ -1,13 +1,4 @@
-### Hi there 👋
-
-<!--
-**harshkaushik31/harshkaushik31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to c<h1 align="center">Hi 👋, I'm Harsh Kaushik</h1>
+<h1 align="center">Hi 👋, I'm Harsh Kaushik</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkaushik31&label=Profile%20views&color=0e75b6&style=flat" alt="harshkaushik31" /> </p>
@@ -24,6 +15,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kaushikyuvraj134@gmail.com**
 
+- ⚡ Fun fact I think I am funny
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yuvrajk31032005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvrajk31032005" height="30" width="40" /></a>
@@ -37,10 +30,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkaushik31&show_icons=true&locale=en&layout=compact" alt="harshkaushik31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkaushik31&" alt="harshkaushik31" /></p>
-ollaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
