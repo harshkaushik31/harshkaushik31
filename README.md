@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yuvrajk31032005" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajk31032005?logo=twitter&style=for-the-badge" alt="yuvrajk31032005" /></a> </p>
 
-- 🔭 I’m currently working on [Tic-Tac-Toe](https://harshkaushik31.github.io/tic-tac-toe)
+- 🔭 I’m currently working on [Expense Tracker](https://harshkaushik31.github.io/expense-tracker)
 
 - 🌱 I’m currently learning **MERN Stack**
 
