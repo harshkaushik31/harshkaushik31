@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yuvrajk31032005" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajk31032005?logo=twitter&style=for-the-badge" alt="yuvrajk31032005" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/harshkaushik31/expense-tracker)
+- 🔭 I’m currently working on [Civic Buddy](https://github.com/harshkaushik31/civic-buddy)
 
 - 🌱 I’m currently learning **MERN Stack**
 
